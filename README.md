@@ -19,9 +19,12 @@
 
 ## 工具开发
 
+### Go
+[exec.Command执行报错解决](./工具开发/exec.Command执行报错解决/exec.Command执行报错解决.md)
+
 ## 二进制
 
 ## 杂
-[Win11 网线无法识别问题](./杂/Win11%20网线无法识别/Win11%20网线无法识别.md)
+[Win11 网线无法识别问题](./杂/Win11%20网线无法识别问题/Win11%20网线无法识别.md)
 
 [Android 环境部署](./杂/Android%20环境部署/Android%20环境部署.md)
