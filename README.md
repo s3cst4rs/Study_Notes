@@ -22,6 +22,8 @@
 
 [StealToken](./工具开发/StealToken/StealToken.md)
 
+[runtime.GOARCH代表的是什么](./工具开发/runtime.GOARCH代表的是什么/runtime.GOARCH代表的是什么.md)
+
 ### Go
 [exec.Command执行报错解决](./工具开发/exec.Command执行报错解决/exec.Command执行报错解决.md)
 
