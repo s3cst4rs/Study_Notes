@@ -33,3 +33,5 @@
 [Win11 网线无法识别问题](./杂/Win11%20网线无法识别问题/Win11%20网线无法识别.md)
 
 [Android 环境部署](./杂/Android%20环境部署/Android%20环境部署.md)
+
+[Windows安装GoogleStore](./杂/Windows安装GoogleStore/Windows安装GoogleStore.md)
