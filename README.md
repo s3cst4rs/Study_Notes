@@ -17,6 +17,8 @@
 ## 内网渗透
 [域环境搭建](./内网渗透/域环境搭建/域环境搭建.md)
 
+[硬盘扩容](./内网渗透/域环境搭建/硬盘扩容.md)
+
 ## 工具开发
 [Sliver Review](https://github.com/l4stchance/sliver/blob/Review/Sliver-Review.md) -进行中
 
