@@ -24,6 +24,8 @@
 
 [StealToken](./工具开发/StealToken/StealToken.md)
 
+[MakeToken](./工具开发/StealToken/StealToken.md#make_token)
+
 [runtime.GOARCH代表的是什么](./工具开发/runtime.GOARCH代表的是什么/runtime.GOARCH代表的是什么.md)
 
 ### Go

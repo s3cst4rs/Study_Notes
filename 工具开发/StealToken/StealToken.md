@@ -1,3 +1,5 @@
+# StealToken
+
 StealToken 的流程是比较清楚简单的，但是要将其整合进框架等其他情况的话，还需要再多考虑一些其他的问题
 
 基本流程就是这样
@@ -42,4 +44,32 @@ BOOL RevertToSelf();
 ![image-20221130220409419](./StealToken.assets/image-20221130220409419.png)
 
 
+# C#中的模拟
 
+昨天看到了 rastamouse 关于 Token impersonation 的文章
+
+https://rastamouse.me/token-impersonation-in-csharp/
+
+主要提了 C# 的两种模拟的方案
+
+![image-20221218140215540](./StealToken.assets/image-20221218140215540.png)
+
+这个很明确，通过一个指定的 Token 来执行所提供的函数
+
+另外一个有点不一样，是通过修改上下文来进行执行的
+
+![image-20221218140309842](./StealToken.assets/image-20221218140309842.png)
+
+这次对这块进行补充主要的原因是，在上面通过 Win32API 进行的模拟，只对于当前线程有作用
+
+而在这篇文章中则提到了 C# 当中跨线程的模拟
+
+![image-20221218141454877](./StealToken.assets/image-20221218141454877.png)
+
+# make_token
+
+顺带一提，rastamouse 文章中也描述的 make_token ，make_token 使用的是 LogonUserW 来实现的，用来制作 Token 主要是依赖于其中的两个参数
+
+![image-20221218141752717](./StealToken.assets/image-20221218141752717.png)
+
+它会保证当前线程继续使用原有的 Token，只有在进行网络请求访问的时候才会使用新的模拟的 Token
