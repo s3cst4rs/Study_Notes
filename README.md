@@ -26,9 +26,9 @@
 
 [MakeToken](./工具开发/StealToken/StealToken.md#make_token)
 
+### Go
 [runtime.GOARCH代表的是什么](./工具开发/runtime.GOARCH代表的是什么/runtime.GOARCH代表的是什么.md)
 
-### Go
 [exec.Command执行报错解决](./工具开发/exec.Command执行报错解决/exec.Command执行报错解决.md)
 
 [exec.Command传参问题-空格和引号](./工具开发/exec.Command传参问题-空格和引号/exec.Command传参问题-空格和引号.md)
