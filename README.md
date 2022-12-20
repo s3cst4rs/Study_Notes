@@ -31,6 +31,8 @@
 ### Go
 [exec.Command执行报错解决](./工具开发/exec.Command执行报错解决/exec.Command执行报错解决.md)
 
+[exec.Command传参问题-空格和引号](./工具开发/exec.Command传参问题-空格和引号/exec.Command传参问题-空格和引号.md)
+
 ## 二进制
 
 ## 杂
