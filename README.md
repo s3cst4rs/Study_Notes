@@ -33,6 +33,8 @@
 
 [exec.Command传参问题-空格和引号](./工具开发/exec.Command传参问题-空格和引号/exec.Command传参问题-空格和引号.md)
 
+[exec.Command执行ntlmrelayx](./工具开发/exec.Command执行ntlmrelayx/exec.Command执行ntlmrelayx.md)
+
 ## 二进制
 
 ## 杂
