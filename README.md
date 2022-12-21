@@ -26,6 +26,8 @@
 
 [MakeToken](./工具开发/StealToken/StealToken.md#make_token)
 
+[Sliver中的进程注入](./工具开发/Sliver中的进程注入/Sliver中的进程注入.md)
+
 ### Go
 [runtime.GOARCH代表的是什么](./工具开发/runtime.GOARCH代表的是什么/runtime.GOARCH代表的是什么.md)
 
