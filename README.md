@@ -37,7 +37,7 @@
 
 [exec.Command执行ntlmrelayx](./工具开发/exec.Command执行ntlmrelayx/exec.Command执行ntlmrelayx.md)
 
-[exec.Command执行ntlmrelayx](./工具开发/exec.Command执行ntlmrelayx/exec.Command执行ntlmrelayx.md)
+[syscall.Syscall的调用](./工具开发/syscall.Syscall的调用/syscall.Syscall的调用.md)
 
 ## 二进制
 
