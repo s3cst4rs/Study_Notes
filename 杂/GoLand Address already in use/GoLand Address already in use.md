@@ -2,7 +2,7 @@
 
 大概弹窗是下面这样，我的图没有截，这里用网上的一张图来说明
 
-![image-20230114093824459](./GoLand Address already in use.assets/image-20230114093824459.png)
+![image-20230114093824459](./GoLand%20Address%20already%20in%20use.assets/image-20230114093824459.png)
 
 官方给的描述是在启动的时候，会尝试绑定 6942 和 6991 之间的第一个可用端口
 
