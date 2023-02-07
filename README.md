@@ -37,6 +37,8 @@
 
 [exec.Command执行ntlmrelayx](./工具开发/exec.Command执行ntlmrelayx/exec.Command执行ntlmrelayx.md)
 
+[exec.Command执行ntlmrelayx](./工具开发/exec.Command执行ntlmrelayx/exec.Command执行ntlmrelayx.md)
+
 ## 二进制
 
 ## 杂
