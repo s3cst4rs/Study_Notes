@@ -37,3 +37,9 @@ Syscall(地址,2,a,a,0)
 Syscall6(地址,2,a,a,0,0,0,0)
 ```
 
+根据返回值可以发现
+
+Syscall 的三个返回值，第一个是函数调用的返回值信息 return，第三个是错误信息，相当于 GetLastError 获取到的内容
+
+![image-20230209100302657](./syscall.Syscall的调用.assets/image-20230209100302657.png)
+
