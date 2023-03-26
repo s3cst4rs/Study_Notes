@@ -25,7 +25,7 @@
 [硬盘扩容](./内网渗透/域环境搭建/硬盘扩容.md)
 
 ## 工具开发
-[Sliver Review](https://github.com/l4stchance/sliver)
+[Sliver Review](https://github.com/s3cst4rs/Study_Notes/issues/3)
 
 [Havoc Review](https://github.com/s3cst4rs/Study_Notes/issues/10)
 
