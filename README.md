@@ -13,6 +13,11 @@
 - 描述（描述具体问题，以及具体的环境等）
 - 思考/尝试（对于上面问题所进行的尝试或者自己的思考、想法、理解等）
 
+# 计划
+[Projects](https://github.com/users/s3cst4rs/projects/1)
+
+[2023安排](https://github.com/s3cst4rs/Study_Notes/issues/9)
+
 # 目录
 ## 内网渗透
 [域环境搭建](./内网渗透/域环境搭建/域环境搭建.md)
@@ -20,7 +25,9 @@
 [硬盘扩容](./内网渗透/域环境搭建/硬盘扩容.md)
 
 ## 工具开发
-[Sliver Review](https://github.com/l4stchance/sliver/blob/Review/Sliver-Review.md) -进行中
+[Sliver Review](https://github.com/l4stchance/sliver)
+
+[Havoc Review](https://github.com/s3cst4rs/Study_Notes/issues/10)
 
 [StealToken](./工具开发/StealToken/StealToken.md)
 
